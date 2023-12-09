@@ -39,6 +39,6 @@ async def iklim_degisikligi_onle(ctx):
     await ctx.send(response)
 
 
-bot.run("MTEwMjI3NDYyNjUzODcwOTAzMw.GXUCUl.OYVjipDuP4LBdBfLx19qLejAfaHO03WE15HVSI")
+bot.run("Your_Token")
 
 
